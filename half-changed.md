@@ -1,4 +1,6 @@
-layout: page title: HALF-CHANGED permalink: /half-changed/
+layout: page 
+title: HALF-CHANGED 
+permalink: /half-changed/
 <!DOCTYPE html>
 <html>
 <head>
